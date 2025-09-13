@@ -1,2 +1,3 @@
-git add . -> Thêm tất cả các file chưa được theo dõi vào vùng stage
-git add tenfile.duoifile -> Thêm file chỉ định vào stage.
+git add .
+git commit -m"message"
+git push
